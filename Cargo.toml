@@ -1,5 +1,9 @@
 [package]
+<<<<<<< HEAD
 name = "first-cargo-program"
+=======
+name = "first-rust-app"
+>>>>>>> 69bd54c (first commit)
 version = "0.1.0"
 edition = "2021"
 
